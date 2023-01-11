@@ -1,4 +1,4 @@
-ID,AGE,gender,PackHistory,smoking,FEV1,FVC,FEV1/FVC,Diabetes,muscular,hypertension,AtrialFib,IHD,copd
+ID,AGE,gender,PackHistory,smoking,FEV1,FVC,FEV1%,Diabetes,muscular,hypertension,AtrialFib,IHD,copd
 1,77,1,60,2,1.21,2.4,0.504166666666667,1,0,0,1,0,3
 2,79,0,50,2,1.09,1.64,0.66,1,0,0,1,1,2
 3,80,0,11,2,1.52,2.3,0.660869565217391,1,0,0,1,0,2
