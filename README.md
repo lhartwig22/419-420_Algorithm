@@ -1,8 +1,8 @@
 # 419IDEAS
   ## Description of Data
-    All datasets include sample values for Age, Gender, PackHistory, Smoking, FEV1%, Diabetes, Muscular, 
-      Hypertension, Atrial Fibrillation, and IHD, As well as a sample label of whether or not the 
-      individual has COPD.
+    All datasets include sample values for Age, Gender, Pack history, Smoking, FEV1%, Diabetes, Muscular 
+      dystrophy, High blood pressure, Atrial fibrillation, and Ischemic heart disease, As well as a label 
+      of whether or not the individual has COPD.
     
     COPD Dataset.csv: kaggle datasets download -d prakharrathi25/copd-student-dataset
     
