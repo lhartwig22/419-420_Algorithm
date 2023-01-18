@@ -15,8 +15,8 @@
     
     COPD Dataset2.csv: combined .csv file of the COPD dataset and healthy datasets
     
-    Compressed COPD Dataset.csv: 100 samples from COPD Dataset2 to form an appropriated sized dataset for 
-      the specific model built including 50 positive and 50 negative samples
+    Compressed COPD Dataset.csv: 120 samples from COPD Dataset2 to form an appropriated sized dataset for 
+      the specific model built including 60 positive and 60 negative samples
 
   ## Description of Code
     Binary classification of structured data including numerical and categorical features to predict the 
